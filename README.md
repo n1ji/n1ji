@@ -7,7 +7,8 @@ I’m a web developer in the making who loves mixing tech with creativity. When 
 
 ### 🔤 Pronunciation & Pronouns
 - **Pronouns:** They/Them  
-- **Name Pronunciation:** *MEER-uh ROO-dee* or /ˈmɪə.rə ˈruːdi/
+- **Name Pronunciation:** *MEER-uh ROO-dee* or */ˈmɪə.rə ˈruːdi/*
+- **Username Pronunciation** *nee-gee* or */niʤi/*
 <picture>
  <img alt="agender heart" src="agenderheart.gif" width="40" height="40">
 </picture>
