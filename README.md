@@ -8,6 +8,12 @@ I’m a web developer in the making who loves mixing tech with creativity. When 
 ### 🔤 Pronunciation & Pronouns
 - **Pronouns:** They/Them  
 - **Name Pronunciation:** *MEER-uh ROO-dee* or /ˈmɪə.rə ˈruːdi/
+<picture>
+ <img alt="agender heart" src="agenderheart.gif" width="32" height="32">
+</picture>
+<picture>
+ <img alt="demi heart" src="demiheart.gif" width="32" height="32">
+</picture>
 
 ### 📚 Projects & Portfolio
 Want to see what I’ve been up to? [Check out my work!](https://n1ji.github.io/portal/).
