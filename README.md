@@ -9,10 +9,10 @@ I’m a web developer in the making who loves mixing tech with creativity. When 
 - **Pronouns:** They/Them  
 - **Name Pronunciation:** *MEER-uh ROO-dee* or /ˈmɪə.rə ˈruːdi/
 <picture>
- <img alt="agender heart" src="agenderheart.gif" width="32" height="32">
+ <img alt="agender heart" src="agenderheart.gif" width="40" height="40">
 </picture>
 <picture>
- <img alt="demi heart" src="demiheart.gif" width="32" height="32">
+ <img alt="demi heart" src="demiheart.gif" width="40" height="40">
 </picture>
 
 ### 📚 Projects & Portfolio
