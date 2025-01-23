@@ -3,7 +3,7 @@
 Hey there! I’m Myra—a student in the Year Up program in Seattle, working on growing my web development skills while juggling a few hobbies like photography and rock climbing. I'm all about learning, experimenting, and having fun with new challenges.
 
 ### 🌟 About Me
-I’m a web developer in the making who loves mixing tech with creativity. When I’m not coding, you’ll usually find me outdoors, scaling rock walls, or snapping photos. I’m constantly learning and experimenting, whether it’s building new projects or exploring new hobbies. My goal is to combine my skills in both tech and creativity to create meaningful and fun things.
+I’m an aspiring software developer who loves mixing tech with creativity. When I’m not coding, you’ll usually find me outdoors, snapping photos or scaling rock walls. I’m constantly learning and experimenting, whether it’s building new projects or exploring new hobbies. My goal is to combine my skills in both tech and creativity to create meaningful and fun things.
 
 ### 🔤 Pronunciation & Pronouns
 - **Pronouns:** They/Them  
