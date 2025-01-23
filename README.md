@@ -20,6 +20,6 @@ I’m a web developer in the making who loves mixing tech with creativity. When 
 Want to see what I’ve been up to? [Check out my portfolio!](https://rudy.red/) [Or my personal site!](https://n1ji.xyz/)
 
 ### 📸 Photography Portfolio
-Want to see some of my photos? Check out my [photography!](https://lightroom.adobe.com/shares/74037c34b58d4fb8b55113c9c88be76e).
+Want to see some of my photos? Check out my [photography!](https://lightroom.adobe.com/shares/74037c34b58d4fb8b55113c9c88be76e)
 
 Feel free to reach out and create something fun!
