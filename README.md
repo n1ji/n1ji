@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome to n1ji's GitHub!
 
-<!--
-**n1ji/n1ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I’m Winter—a software engineer, working on growing my web development skills while constantly learning new hobbies. I love learning about random things, experimenting, and having fun with challenges.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔤 Pronunciation & Pronouns
+- **Pronouns:** They/Them  
+- **Name Pronunciation:** *WIN-ter* or */ˈwɪn.tɚ/*
+- **Username Pronunciation** *nee-gee* or */niʤi/*
+<picture>
+ <img alt="agender heart" src="agenderheart.gif" width="40" height="40">
+</picture>
+<picture>
+ <img alt="demi heart" src="demiheart.gif" width="40" height="40">
+</picture>
