@@ -1,6 +1,6 @@
 # Welcome to n1ji's GitHub!
 
-Hey there! I’m Winter—a software engineer, working on growing my web development skills while constantly learning new hobbies. I love learning about random things, experimenting, and having fun with challenges.
+I’m Winter—a software engineer, working on my web dev skills. I love learning about random things.
 
 - **Pronouns:** They/Them  
 - **Name Pronunciation:** *WIN-ter* or */ˈwɪn.tɚ/*
