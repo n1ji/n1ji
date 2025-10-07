@@ -12,7 +12,7 @@
 
 # Give Up GitHub
 
-This project has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
+This user has given up GitHub.  ([See Software Freedom Conservancy's *Give Up  GitHub* site for details](https://GiveUpGitHub.org).)
 
 You can now find this account [here](https://codeberg.org/n1ji) instead.
 
