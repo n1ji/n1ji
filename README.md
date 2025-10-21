@@ -18,4 +18,4 @@ You can now find this account [here](https://codeberg.org/n1ji) instead.
 
 Join us; you can [give up GitHub](https://GiveUpGitHub.org) too!
 
-![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/static/img/GiveUpGitHub.png)
+<img src="https://sfconservancy.org/static/img/GiveUpGitHub.png" alt="Sample Image" width="400" height="400">
