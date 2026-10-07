@@ -38,4 +38,7 @@ I build fast, good-looking websites and small tools that save people time: Teleg
 
 ## Get in touch
 
-Have a project in mind? Open an issue on any of my repositories to say hello, or find me through the links on my profile.
+Have a project in mind? Send me a message:
+
+- **Email:** [n1ji2work@gmail.com](mailto:n1ji2work@gmail.com)
+- **Telegram:** [@n1ji_og](https://t.me/n1ji_og)
