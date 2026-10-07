@@ -24,7 +24,6 @@ I build fast, good-looking websites and small tools that save people time: Teleg
 ## Tools I use
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
