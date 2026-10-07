@@ -1,4 +1,6 @@
-# Hi, I'm Plaui
+# Hi, I'm n1ji (plaui)
+
+*Formerly known on GitHub as `plaui228`.*
 
 **Python developer: websites, bots and automation for small businesses.**
 
@@ -15,10 +17,10 @@ I build fast, good-looking websites and small tools that save people time: Teleg
 
 | Project | What it is |
 |---|---|
-| [ollama_chat](https://github.com/plaui228/ollama_chat) | Offline desktop chat app for local AI models (Python, Tkinter) |
-| [anti-tik-tok-bot-discord](https://github.com/plaui228/anti-tik-tok-bot-discord) | Discord bot that moves TikTok links into their own channel, logs them and deletes the original |
-| [zoom-joiner](https://github.com/plaui228/zoom-joiner) | Tiny app that opens your class or meeting links with one click |
-| [ESP32-firebeetle-stand](https://github.com/plaui228/ESP32-firebeetle-stand) | Hardware project: an ESP32 weather station with a custom 3D-printed case |
+| [ollama_chat](https://github.com/n1ji/ollama_chat) | Offline desktop chat app for local AI models (Python, Tkinter) |
+| [anti-tik-tok-bot-discord](https://github.com/n1ji/anti-tik-tok-bot-discord) | Discord bot that moves TikTok links into their own channel, logs them and deletes the original |
+| [zoom-joiner](https://github.com/n1ji/zoom-joiner) | Tiny app that opens your class or meeting links with one click |
+| [ESP32-firebeetle-stand](https://github.com/n1ji/ESP32-firebeetle-stand) | Hardware project: an ESP32 weather station with a custom 3D-printed case |
 
 ## Client work
 
