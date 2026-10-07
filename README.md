@@ -11,15 +11,22 @@ I build fast, good-looking websites and small tools that save people time: Teleg
 - **Python automation**: spreadsheets, reports, repetitive tasks
 - **Self-hosted setups**: Docker services and private tools running on your own server
 
-## Selected work
+## Personal projects
 
 | Project | What it is |
 |---|---|
-| [psy-analysis.com](https://psy-analysis.com) | A complete portfolio site with services, certificates, FAQ and booking form, which I built and host myself |
 | [ollama_chat](https://github.com/plaui228/ollama_chat) | Offline desktop chat app for local AI models (Python, Tkinter) |
 | [anti-tik-tok-bot-discord](https://github.com/plaui228/anti-tik-tok-bot-discord) | Discord bot that moves TikTok links into their own channel, logs them and deletes the original |
 | [zoom-joiner](https://github.com/plaui228/zoom-joiner) | Tiny app that opens your class or meeting links with one click |
 | [ESP32-firebeetle-stand](https://github.com/plaui228/ESP32-firebeetle-stand) | Hardware project: an ESP32 weather station with a custom 3D-printed case |
+
+## Client work
+
+| Project | What it is |
+|---|---|
+| [psy-analysis.com](https://psy-analysis.com) | A complete portfolio site for my mother's psychology practice, with services, certificates, FAQ and booking form. I built it and host it |
+
+*Shown here with the client's permission.*
 
 ## Tools I use
 
